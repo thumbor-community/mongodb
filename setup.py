@@ -13,7 +13,7 @@ def read(fname):
 
 
 setup(
-    name="tc_mongo",
+    name="tc_mongodb",
     version="5.1.0",
     author="Thumbor Community",
     description=("Thumbor thumbor storage adapters"),
