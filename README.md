@@ -1,5 +1,5 @@
-# mongodb
-MongoDB storage
+# tc_mongodb
+MongoDB storage adapter for thumbor.
 
 # Versions
 
